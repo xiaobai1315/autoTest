@@ -12,9 +12,9 @@ public class TestNG3 {
 
     @Test
     public void test2() {
-//        WebDriver driver = new ChromeDriver();
-//        driver.get("http://www.baidu.com");
-//        Search.search(driver, "selenium");
+        WebDriver driver = new ChromeDriver();
+        driver.get("http://www.baidu.com");
+        Search.search(driver, "selenium");
         System.out.println("test2");
     }
 
