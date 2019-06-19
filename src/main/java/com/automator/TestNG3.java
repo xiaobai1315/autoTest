@@ -13,6 +13,7 @@ public class TestNG3 {
     @Test
     public void test2() {
         WebDriver driver = new ChromeDriver();
+        System.setProperty("webdriver.chrome.driver", "/Users/lulu/Documents/selenium/chromedriver");
         driver.get("http://www.baidu.com");
         Search.search(driver, "selenium");
         System.out.println("test2");

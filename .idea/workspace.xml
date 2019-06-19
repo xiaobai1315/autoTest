@@ -3,11 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="ecc40b98-b2c5-41fb-a03c-55aeb2cbe073" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/automator/TestNG3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automator/TestNG3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/automator/TestNG1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automator/TestNG1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/automator/TestNG2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automator/TestNG2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/automator/TestNG3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automator/TestNG3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/automator/TestNG4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automator/TestNG4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/automator/TestNG5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automator/TestNG5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Default Suite/Selenium_Grid_Demo1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Default Suite/Selenium_Grid_Demo1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Default Suite/Selenium_Grid_Demo1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Default Suite/Selenium_Grid_Demo1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.automator.TestNG3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.automator.TestNG3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/automator/TestNG1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="231" column="5" selection-start-line="231" selection-start-column="5" selection-end-line="231" selection-end-column="5" />
+            <state relative-caret-position="325">
+              <caret line="84" column="101" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/automator/TestNG3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="225">
+              <caret line="15" column="101" selection-start-line="15" selection-start-column="101" selection-end-line="15" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#509#510#0" expanded="true" />
@@ -220,6 +228,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="object" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -355,7 +372,7 @@
       <workItem from="1560405873216" duration="7426000" />
       <workItem from="1560420022478" duration="484000" />
       <workItem from="1560420512464" duration="12381000" />
-      <workItem from="1560758011751" duration="17412000" />
+      <workItem from="1560758011751" duration="17704000" />
     </task>
     <servers />
   </component>
@@ -392,7 +409,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44509000" />
+    <option name="totallyTimeSpent" value="44801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,26 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/automator/TestNG1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="231" column="5" selection-start-line="231" selection-start-column="5" selection-end-line="231" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/automator/TestNG2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/page/LoginView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -559,10 +556,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automator/TestNG1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="84" column="101" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automator/TestNG2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/automator/TestNG3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        <state relative-caret-position="225">
+          <caret line="15" column="101" selection-start-line="15" selection-start-column="101" selection-end-line="15" selection-end-column="101" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#509#510#0" expanded="true" />
